@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white" height="40" alt="QGIS badge"  />
   <img width="12" />
-  <img src="[https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)" height="40" alt="Figma badge"  />
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" height="40" alt="Figma badge"  />
   <img width="12" />
  
   
